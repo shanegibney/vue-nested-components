@@ -1,5 +1,8 @@
 <template lang="html">
-  <h1>I am a nested component</h1>
+  <div>
+    <h1>I am a nested component</h1>
+    <a href="https://github.com/shanegibney/vue-nested-components">Return to repo</a>
+  </div>
 </template>
 
 <script>

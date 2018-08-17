@@ -1,3 +1,5 @@
+[gh-pages](https://shanegibney.github.io/vue-nested-components/#/)
+
 # nestedcomponents
 
 > nested components example
